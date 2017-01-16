@@ -14,4 +14,9 @@ It will display option 4 original pnas_final pnas_sub
 Option 4 which uses ls -r -F or ls -r -F /Users/backup will allow you to view the files reverse order
 
 - Exploring More ls arguments
- according to the help pulled up by ls --help, -l uses long list format and -h makes the file sizes human-readable 
+ according to the help pulled up by ls --help, -l uses long list format and -h makes the file sizes human-readable
+
+- listing recursively by time 
+is should display the directories recursively by the time of the last change/edit 
+
+Correct answer: directories listed alphabetical at each level with files/ directories in each directory listed by time of last edit   
