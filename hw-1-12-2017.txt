@@ -9,3 +9,6 @@ She can use commands:
 
 - Relative Path Resolution
 It will display option 4 original pnas_final pnas_sub
+
+- ls Reading Comprehension
+Option 4 which uses ls -r -F or ls -r -F /Users/backup will allow you to view the files reverse order
