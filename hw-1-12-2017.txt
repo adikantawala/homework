@@ -12,3 +12,6 @@ It will display option 4 original pnas_final pnas_sub
 
 - ls Reading Comprehension
 Option 4 which uses ls -r -F or ls -r -F /Users/backup will allow you to view the files reverse order
+
+- Exploring More ls arguments
+ according to the help pulled up by ls --help, -l uses long list format and -h makes the file sizes human-readable 
