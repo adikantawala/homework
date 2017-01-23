@@ -190,6 +190,12 @@ Question 6:
 3. cp Marra2014_data.fasta ~/Desktop/eeb-177/csb/unix/sandbox/
 5. tr "  " " " 
 
+Question 7: 
+-for filename in *.txt
+> do echo $filename edited-$filename
+> cp filename ~/Desktop/eeb-177/csb/unix/sandbox/
+> done
+
 Question 8: 
 - using grep:
 any of the options should yield the desired output
