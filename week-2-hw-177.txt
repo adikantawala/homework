@@ -61,6 +61,7 @@ Erethizontidae
 Erinaceidae
 Eschrichtiidae
 Eupleridae
+Family
 Felidae
 Furipteridae
 Galagidae
@@ -159,6 +160,8 @@ Vespertilionidae
 Viverridae
 Vombatidae
 Ziphiidae
+
+I subtracted 1 because it is counting the column title Family as a unique value.  
 
 Question 3: 
   500  tail -n +2 Pacifici2013_data.csv 
