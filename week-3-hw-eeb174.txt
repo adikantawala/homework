@@ -1,3 +1,9 @@
 Question 1
 Indival 3: 61 times 
-Individual 27: 5 times 
+Individual 27: 5 times
+
+rest of answers attached as scripts and pyhon notebooks on github
+
+Q4. Sorting Out References
+
+It will print: Hopper Grace
