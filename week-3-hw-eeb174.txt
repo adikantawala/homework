@@ -4,6 +4,7 @@ Individual 27: 5 times
 
 rest of answers attached as scripts and pyhon notebooks on github
 
-Q4. Sorting Out References
+Question 2 part 3: 
 
-It will print: Hopper Grace
+The one with the most rows is n58.txt
+and the one with the most coulmns is n56.txt
