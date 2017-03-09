@@ -39,6 +39,15 @@ print(x)
 
 x_subset <- x[x<7 & x>4]
 print(x_subset)
+
+m <- matrix(1:18, nrow=3, ncol=6)
+print(m)
+#d and B 
+#only D. looking back I think I could have got it right if I was not rushing 
+
+xlist <- list(a = "Software Carpentry", b = 1:10, data = head(iris))
+
+
 ```
 
 
